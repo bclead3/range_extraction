@@ -1,0 +1,6 @@
+.idea/
+coverage/
+
+.byebug_history
+
+white_board.rb
