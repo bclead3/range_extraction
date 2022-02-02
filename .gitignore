@@ -2,5 +2,6 @@
 coverage/
 
 .byebug_history
+.overcommit.yml
 
 white_board.rb
